@@ -1,0 +1,9 @@
+#gb .gb_8 {min-width:980px;
+	  }
+
+.gb_3b {left:0px;
+       position:absolute;
+       top:0px;
+       -moz-user-select:none;
+       width:100%;
+       }
